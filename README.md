@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎮 Game Developer | Unity 2D/3D & Unreal Engine | Crafting Digital Worlds, One Line of Code at a Time 🚀 #GameDev #Unity #UnrealEngine
 
-Hey, I'm Siddharth, a passionate game developer with a knack for turning ideas into immersive digital experiences. My playground? Unity 2D, Unity 3D, and the Unreal Engine.
+Hey, I'm Siddharth Tiwari, a passionate game developer with a knack for turning ideas into immersive digital experiences. My playground? Unity 2D, Unity 3D, and the Unreal Engine. I am a problem solver and adaptive individual who loves exploring and learning new things.
 
 🌟 In the pixel-perfect realm of Unity 2D, I weave interactive tales that transport players to simpler yet spellbinding worlds. From retro-inspired classics to modern marvels, I'm all about delivering unforgettable 2D adventures.
 
