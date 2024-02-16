@@ -1,20 +1,8 @@
 # 💫 About Me:
-🎮 Game Developer | Unity 2D/3D & Unreal Engine | Level Designer| 
-Crafting Digital Worlds, One Line of Code at a Time 🚀 #GameDev #Unity #UnrealEngine
+My name is Siddharth Tiwari. I am originally from Bihar but I currently reside in Bangalore for my education. I am in my last semester of pursuing BCA GAME DEVELOPMENT from Seamedu which is affiliated to CMR University. Even though I have less experience from internship that I did in my 3rd semester but for all these academic years in my University I have independently worked on few projects using Unity and Unreal Engine. I have even participated in few Game jams and have developed strong collaboration and problem-solving skills.
 
-Hey, I'm Siddharth Tiwari, a passionate game developer with a knack for turning ideas into immersive digital experiences. My playground? Unity 2D, Unity 3D, and the Unreal Engine. I am a problem solver and adaptive individual who loves exploring and learning new things.
+Other than game development, I love photography and I have a Instagram page where I post my pictures. And would like to thank you for accepting my application as I am eager and excited to start my career in the gaming field.
 
-🌟 In the pixel-perfect realm of Unity 2D, I weave interactive tales that transport players to simpler yet spellbinding worlds. From retro-inspired classics to modern marvels, I'm all about delivering unforgettable 2D adventures.
-
-🌐 Unity 3D, on the other hand, is where I break boundaries and redefine reality. Building 3D landscapes, I create games that blur the line between imagination and existence. Get ready to dive into breathtaking virtual realms where the sky's the limit!
-
-🚀 But, I don't stop there. I harness the power of Unreal Engine to craft mind-blowing, cinematic experiences. With Unreal, I push the limits of what's possible, delivering jaw-dropping graphics and breathtaking environments that leave players awestruck.
-
-🌎 My journey in game development is all about exploring the endless possibilities of digital storytelling. Whether it's scripting intricate gameplay mechanics, conjuring lifelike physics simulations, or fine-tuning the perfect lighting, I thrive on the creative challenges that game development offers.
-
-🔗 Beyond the code, I'm all about building connections. I believe that games have the power to unite people, spark emotions, and foster communities. I'm here to not just create games but to bring people together in shared adventures.
-
-🌈 Join me as I continue my quest to create captivating worlds, one line of code at a time. Together, we'll explore the vast universe of gaming, where imagination knows no bounds. 🚀🎮✨ #GameDevWizard #UnityUnrealMaestro
 
 
 ## 🌐 Socials:
@@ -38,8 +26,8 @@ Hey, I'm Siddharth Tiwari, a passionate game developer with a knack for turning 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iamsidh108&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+[//]: <> (### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iamsidh108&icon=1&color=6)](https://visitcount.itsvg.in)
