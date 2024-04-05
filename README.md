@@ -1,7 +1,15 @@
 # 💫 About Me:
-My name is Siddharth Tiwari. I am originally from Bihar but I currently reside in Bangalore for my education. I am in my last semester of pursuing BCA GAME DEVELOPMENT from Seamedu which is affiliated to CMR University. Even though I have less experience from internship that I did in my 3rd semester but for all these academic years in my University I have independently worked on few projects using Unity and Unreal Engine. I have even participated in few Game jams and have developed strong collaboration and problem-solving skills.
+Siddharth Tiwari is an enthusiastic and ambitious game developer eager to make his mark in the gaming industry. Hailing from a small town in Bihar, Siddharth discovered his passion for game development during his high school years. Fuelled by a love for video games and a curiosity for how they were made, he pursued a degree in Bachelor in Computer Application with a specialization in Game Development from CMR University, Bengaluru.
 
-Other than game development, I love photography and I have a Instagram page where I post my pictures. And would like to thank you for accepting my application as I am eager and excited to start my career in the gaming field.
+Throughout his college journey, Siddharth immersed himself in various game development projects, both solo and collaborative. From creating simple 2D platformers to experimenting with 3D and Virtual reality experiences, he eagerly embraced every opportunity to learn and grow as a developer.
+
+Despite his limited professional experience, Siddharth's dedication and eagerness to learn set him apart. He completed internships at a company, where he gained valuable hands-on experience in programming, game design, and the development process along with teaching other kids.
+
+Now a fresh graduate, Siddharth is eager to embark on his career in the gaming industry. He is passionate about storytelling, game mechanics, and creating engaging experiences for players. With a strong foundation in programming and a creative mindset, he is excited to contribute to the development of innovative and captivating games.
+
+Outside of game development, Siddharth enjoys exploring new technologies, playing video games, and participating in game jams and hackathons, travelling and photography. He is also committed to continuous learning and improvement, regularly seeking out online courses and tutorials to expand his skills.
+
+Driven by his passion for gaming and a desire to make meaningful contributions to the industry, Siddharth is ready to dive into the world of game development and turn his dreams into reality.
 
 
 
